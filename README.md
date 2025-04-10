@@ -1,5 +1,5 @@
 
-# homeassistant dashboard
+# home assistant dashboard
 
 ![Screen Shot 2025-04-10 at 11 48 25 am](https://github.com/user-attachments/assets/0da401e3-62a9-4fef-a754-15a05816b8cf)
 
