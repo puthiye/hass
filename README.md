@@ -1,3 +1,11 @@
+# raspberry system monitor 
+- Use the homeassistant "System Monitor" integration to track cpu, mem, disk usage: https://www.home-assistant.io/integrations/systemmonitor/
+- 
+
+
+
+
+
 # home assistant - backup restore
 
 - Run docker compose down to stop the container
