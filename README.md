@@ -1,3 +1,8 @@
+
+# homeassistant dashboard
+
+![Screen Shot 2025-04-10 at 11 48 25 am](https://github.com/user-attachments/assets/0da401e3-62a9-4fef-a754-15a05816b8cf)
+
 # raspberry system monitor 
 - Use the homeassistant "System Monitor" integration to track cpu, mem, disk usage: https://www.home-assistant.io/integrations/systemmonitor/
 
