@@ -12,6 +12,10 @@
       payload_on: "on"
       payload_off: "off"
   ```
+Refer below links for details:
+1. https://www.home-assistant.io/integrations/command_line/
+2. https://www.home-assistant.io/integrations/binary_sensor/
+  
 
 # home assistant - backup restore
 
