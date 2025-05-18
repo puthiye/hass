@@ -1,4 +1,17 @@
-
+# docker compose
+```
+services:
+  homeassistant:
+    container_name: homeassistant
+    image: "ghcr.io/home-assistant/home-assistant:stable"
+    volumes:
+      - /etc/hass/config:/config
+      - /etc/localtime:/etc/localtime:ro
+      - /run/dbus:/run/dbus:ro
+    restart: unless-stopped
+    privileged: true
+    network_mode: host
+```
 # home assistant dashboard
 
 ![Screen Shot 2025-04-10 at 11 48 25 am](https://github.com/user-attachments/assets/0da401e3-62a9-4fef-a754-15a05816b8cf)
